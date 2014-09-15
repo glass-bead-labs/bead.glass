@@ -13,3 +13,6 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 Thanks @jglovier!
+
+ - Bulleted lists are easy
+ - You just put a '-' or a '*' before each line.
