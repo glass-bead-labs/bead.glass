@@ -4,6 +4,11 @@ layout: default
 
 <div class="home">
 
-  <p>It's a thing</p>
+{% comment %}
+Putting the capture all on one line avoids indentation leading
+to a code snippet.
+{% endcomment %}
+{% capture post_list %}{% include post_list.md %}{% endcapture %}
+{{ post_list | markdownify }}
 
 </div>
