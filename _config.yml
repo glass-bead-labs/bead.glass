@@ -1,10 +1,10 @@
 # Site settings
 title: Glass Bead Labs
-email: tbd@nowhere.yet
+email: davclark@berkeley.edu
 description: "We do social measurement really, really well."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: tbd
+url: "http://bead.glass"
+twitter_username: davclark
 github_username: glass-bead-labs
 
 # Build settings
