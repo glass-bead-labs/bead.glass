@@ -22,3 +22,5 @@ developing the [BigBang project](https://github.com/sbenthall/BigBang)
 to investigate communities based on their digital communications (e.g.,
 mailing lists and Twitter). He is particularly interested in assessing
 the health of open source communities as a reflexive data scientist.
+
+**Diane Wang** is an undergraduate Computer Science major at UC Berkeley, with interests in design, data, and sociology. She enjoys full-stack development, and pursues graphic design as a hobby.
