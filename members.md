@@ -24,3 +24,6 @@ mailing lists and Twitter). He is particularly interested in assessing
 the health of open source communities as a reflexive data scientist.
 
 **Diane Wang** is an undergraduate Computer Science major at UC Berkeley, with interests in design, data, and sociology. She enjoys full-stack development, and pursues graphic design as a hobby.
+
+**Kishan Patel** is a first year undergraduate Computer Science and Business Administration major at UC Berkeley.  His hobbies include tinkering with iOS and Android Apps to learn the development process and binge watching shows on Netflix.
+
