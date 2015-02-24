@@ -27,3 +27,4 @@ the health of open source communities as a reflexive data scientist.
 
 **Kishan Patel** is a first year undergraduate Computer Science and Business Administration major at UC Berkeley.  His hobbies include tinkering with iOS and Android Apps to learn the development process and binge watching shows on Netflix.
 
+**Jessica Xu** is an undergraduate Applied Mathematics major at UC Berkeley with a concentration in Statistics and Computer Science. She has recently become interested in web development and really enjoys learning how to code using Codecademy.  
