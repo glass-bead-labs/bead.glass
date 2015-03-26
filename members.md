@@ -6,7 +6,7 @@ permalink: /members/
 
 ## Direction
 
-**Dav Clark** is the director of Glass Bead Labs. He is appointed as a data
+**Dav Clark** ([CV](https://github.com/davclark/dav-cv/releases/download/2015-01/davclark-complete-CV-2015-01.pdf) is the director of Glass Bead Labs. He is appointed as a data
 scientist at the [Berkeley D-Lab](http://dlab.berkeley.edu), a Berkeley
 Institute for Data Science Fellow, and a Lecturer in the School of Information
 [Masters in Data Science](http://datascience.berkeley.edu). He is also a
@@ -18,12 +18,10 @@ the use of lightweight social measurement using mobile and web technologies to
 assess behavior change interventions. You can follow the details of this work on
 the [MobSci site](https://mobsci.dlab.berkeley.edu).
 
-**Sebastian Benthall** is a fellow at Glass Bead Labs. He is a
+**Sebastian Benthall** ([CV](https://github.com/sbenthall/sb-cv/raw/master/sebastian-benthall-complete-CV-2015-03-26.pdf))is a fellow at Glass Bead Labs. He is a
 doctoral candidate in the Berkeley School of Information, primarily
 developing the [BigBang project](https://github.com/sbenthall/BigBang)
-to investigate communities based on their digital communications (e.g.,
-mailing lists and Twitter). He is particularly interested in assessing
-the health of open source communities as a reflexive data scientist.
+to investigate the cognitive ecology of online collaboration. He is particularly interested in assessing the health of open source communities as a reflexive data scientist.
 
 ## Undergraduate Team
 
