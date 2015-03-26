@@ -1,7 +1,7 @@
 # Site settings
 title: Glass Bead Labs
 email: davclark@berkeley.edu
-description: "We do social measurement really, really well."
+description: "Reflexive data science."
 baseurl: ""
 url: "http://bead.glass"
 twitter_username: davclark
