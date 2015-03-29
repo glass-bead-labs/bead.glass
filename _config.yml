@@ -1,10 +1,10 @@
 # Site settings
 title: Glass Bead Labs
-email: davclark@berkeley.edu
+email: labs@bead.glass
 description: "Reflexive data science."
 baseurl: ""
 url: "http://bead.glass"
-twitter_username: davclark
+twitter_username: GlassBeadLabs
 github_username: glass-bead-labs
 
 # Build settings
