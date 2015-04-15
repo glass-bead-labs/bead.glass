@@ -25,6 +25,9 @@ to investigate the cognitive ecology of online collaboration. He is particularly
 
 ## Undergraduate Team
 
+**Michelle Galemmo** is a junior undergraduate Cognitive Science and Art double major at UC Berkeley. Michelle is also doing a minor in Computer Science and enjoys blending a wide range of topics and perspectives in her work. Outside of her interdisciplinary studies, 
+Michelle enjoys spending time with her chihuahua and practicing yoga. ([Personal Site](http://mgalemmo.github.io/))
+
 **Kishan Patel** is a first year undergraduate Computer Science and Business
 Administration major at UC Berkeley.  His hobbies include tinkering with iOS and
 Android Apps to learn the development process and binge watching shows on
