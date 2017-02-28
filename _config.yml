@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://bead.glass"
 twitter_username: GlassBeadLabs
 github_username: glass-bead-labs
+exclude: ["jobs.md"]
 
 # Build settings
-markdown: kramdown
 permalink: pretty
