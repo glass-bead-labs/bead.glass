@@ -40,7 +40,7 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 500;
 }
-p,a,li,blockquote,.popover-content {
+p,a,li,blockquote,small,.popover-content {
   font-family: "Merriweather", serif;
   font-weight: 300;   
   line-height: 1.6;
@@ -162,8 +162,9 @@ hr {
 
 /* Footer */
 footer {
-/*  background: #f8f8f8;*/
-  padding: 50px 0 100px;
+  background: #f8f8f8;
+  margin-top: 50px;
+  padding: 30px 0;
 }
 
 /* -- Contact Us -- */
