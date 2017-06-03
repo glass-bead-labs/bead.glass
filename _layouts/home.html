@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+
+    <section>
+      <div class="container">
+        <div id="home-message">
+          <p>We re-imagine education and wellness through
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#research">research</a>,
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#data" style="white-space: nowrap;">data analysis</a>,
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#design">design</a>, and
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#web" style="white-space: nowrap;">web development</a>.<br />
+        We are currently designing
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#intelligent" style="white-space: nowrap;">intelligent classrooms</a> with
+          <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#SHO-zemi">SHO-zemi</a>.<br />
+          Let's help some kids and <a href="#" rel="popover" data-toggle="popover" data-trigger="focus" data-placement="top" data-popover-content="#game" style="white-space: nowrap;">enjoy doing it</a>!
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!--  Popover contents  -->
+    <div class="popover-content">
+      <div id="research" class="hide">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes
+      </div>
+      <div id="data" class="hide">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes
+      </div>
+      <div id="design" class="hide">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes
+      </div>
+      <div id="web" class="hide">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes
+      </div>
+      <div id="intelligent" class="hide">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes
+      </div>
+      <div id="SHO-zemi" class="hide">
+        Japanese tutoring company.<br /><a href="http://www.sziv.org/" target="_blank">See their website</a>
+      </div>
+      <div id="game" class="hide">
+        A fun game comes here!
+      </div>
+      <div id="contact" class="hide">
+        Use this <a href="contact/index.html">contact form</a>!
+      </div>
+    </div>
+    <!--  //Popover contents  -->
+
+
+    {% include footer.html %}
+
+    {% include ga.html %}
+
+</body>
+
+</html>
