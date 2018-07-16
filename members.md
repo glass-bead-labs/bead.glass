@@ -26,13 +26,24 @@ innovation in social and physical measurement, hosting round-tables with
 [DIL](http://dil.berkeley.edu/data-analytics-toolkits/mobile-data-collection-webinar-series/) and leading instruction for
 ["Hacking Measurement"](http://hackingmeasurement.berkeley.edu/).
 
-**Sebastian Benthall**
+**Sebastian Benthall, Ph.D.**
 ([CV](https://github.com/sbenthall/sb-cv/raw/master/sebastian-benthall-complete-CV-2015-03-26.pdf))
 is a fellow at Glass Bead Labs. He is a doctoral candidate in the Berkeley
 School of Information, primarily developing the
 [BigBang project](https://github.com/sbenthall/BigBang) to investigate the
 cognitive ecology of online collaboration. He is particularly interested in
 assessing the health of open source communities as a reflexive data scientist.
+
+**Jean-Olivier Richard, Ph.D.**
+([UofT page](https://stmikes.utoronto.ca/profile/jean-olivier-richard/))
+is a fellow of Glass Bead Labs. He is an Assistant Professor of 
+Christianity and Science at St. Michael’s College in the University of Toronto.
+His research focuses on polymathic enterprises of the early modern era, 
+Enlightenment philosophy, and Jesuit history. He is currently writing a book 
+on the universal system of 18th-century Jesuit mathematician and philosopher 
+Louis-Bertrand Castel, and he joins Glass Beads Labs with the goal of bringing
+historical insight into the development of VR and volumetric capture tools
+to facilitate multidisciplinary research and the teaching of mathematics and physics.
 
 ## Undergraduate Alumni
 
