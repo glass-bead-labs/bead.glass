@@ -1,1 +1,17 @@
-<svelte:component this={child.component} {...child.props}/>
+<Nav />
+
+<main>
+    <svelte:component this={child.component} {...child.props}/>
+</main>
+
+<Footer />
+
+<!-- These are required even if they're only used internally -->
+<script>
+    export default {
+        components: {
+            Nav: '../components/Nav.html',
+            Footer: '../components/Footer.html'
+        }
+    };
+</script>
