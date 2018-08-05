@@ -33,6 +33,10 @@ module.exports = {
 			'process.browser': true,
 			'process.env.NODE_ENV': JSON.stringify(mode)
 		}),
+        new webpack.ProvidePlugin({
+            $: "jquery",
+            jQuery: "jquery"
+        })
 	].filter(Boolean),
 	devtool: isDev && 'inline-source-map'
 };
