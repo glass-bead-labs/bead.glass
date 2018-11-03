@@ -1,17 +1,5 @@
-# This was from Jekyll
-_site
-
 .DS_Store
-
-# Generic JS
 node_modules
-yarn.lock
 yarn-error.log
-
-# Specific to sapper
-/.sapper/
 /cypress/screenshots/
-/templates/.*
-/export/
-/build/
-/app/manifest/
+/__sapper__
